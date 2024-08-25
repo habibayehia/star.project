@@ -1,0 +1,56 @@
+body {
+    background: rgb(30, 10, 49);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.start {
+    width: 900px;
+    height: 400px;
+    background: rgb(97, 22, 167);
+    margin: 200px 300px;
+    border: 20px;
+    border-radius: 10px;
+}
+
+img {
+    float: right;
+    height: 400px;
+    /* padding: 5px; */
+    border-radius: 0 10px 10px 0;
+    background-color: rgba(169, 113, 222, 0.532);
+    opacity: 0.5;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+span {
+    color: rgb(41, 5, 74);
+}
+
+p {
+    color: rgb(203, 176, 229);
+    padding-left: 80px;
+    line-height: 20px;
+    padding-top: 10px;
+}
+
+h3 {
+    display: inline;
+    margin: 21px;
+    margin-left: 70px;
+    color: white;
+    font-size: 23px;
+}
+
+.hedo {
+    display: inline;
+    padding-left: 59px;
+    margin-left: 10px;
+    font-size: 14px;
+}
